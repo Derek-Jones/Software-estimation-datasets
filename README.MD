@@ -7,7 +7,7 @@ Entries are listed by order of number of rows in the dataset, largest first.
 
 Note: it's common for paper _X_ to cite _Y_ as the source of the data, without checking to find that _Y_ cites _Z_ as the source of the data (occasionally the citation chain is longer).
 
-The [arff file format](https://waikato.github.io/weka-wiki/formats_and_processing/arff/) contains embeded information about the data.
+The [arff file format](https://waikato.github.io/weka-wiki/formats_and_processing/arff/) contains embedded information about the data.
 
 If you know of any datasets that are missing, and you have the data, please send me a copy. Also, if you spot any mistakes, please let me know.
 
@@ -27,7 +27,7 @@ Derek M. Jones, "The Renzo Pomodoro dataset", Dec 2019, [The Shape of Code](http
 
 Estimate/actual in Pomodoros for small tasks.
 
-[SiP](https://github.com/Derek-Jones/SiP_dataset)]
+[SiP](https://github.com/Derek-Jones/SiP_dataset)
 
 Derek M. Jones, Stephen Cullum "A conversation around the analysis of the SiP effort estimation dataset", Jan 2019, [arXiv:cs.SE/1901.01621](https://arxiv.org/abs/1901.01621).
 
@@ -57,7 +57,7 @@ Hennie Huijgens, Arie van Deursen, Rini van Solingen, "The effects of perceived 
 
 492 rows
 
-Estimates in Function points and actuals in mEuros/person hours for medium size projects.
+Estimates in Function points and actuals in Euros/person hours for medium size projects.
 
 **kitchenham.arff**
 
