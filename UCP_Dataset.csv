@@ -1,0 +1,72 @@
+Project_No;Simple Actors;Average Actors;Complex Actors;UAW;Simple UC;Average UC;Complex UC;UUCW;TCF;ECF;Real_P20;Real_Effort_Person_Hours;Sector;Language;Methodology;ApplicationType;DataDonator
+1;1;1;2;9;6;10;15;355;0,81;0,84;398,5;7970;Manufacturing;Java;;;D1
+2;1;2;1;8;4;20;15;445;0,99;0,99;398,1;7962;;;;;D1
+3;0;0;3;9;1;5;20;355;1,03;0,8;396,75;7935;Banking;C#;;Business Application;D1
+4;0;1;2;8;5;10;15;350;0,9;0,91;390,25;7805;Communication;C++;;Real-Time application;D1
+5;1;2;1;8;1;10;16;345;0,9;0,91;387,9;7758;Manufacturing;;Waterfall;Real-Time Application;D1
+6;2;0;2;8;1;13;14;345;0,99;0,99;382,15;7643;Insurance;Java;Personal Software Process (PSP);Business Application;D1
+7;0;2;1;7;3;18;15;420;0,94;1,02;376,6;7532;Communication;Java;Rapid Application Development;Business Application;D1
+8;0;1;2;8;0;16;12;340;1,03;0,8;372,55;7451;Wholesale & Retail;C;;Business Application;D1
+9;;1;2;8;2;10;15;335;0,94;1,02;372,45;7449;Banking;C#;;Business Application;D1
+10;4;0;1;7;4;14;17;415;1,025;0,98;371,35;7427;;Java;;;D1
+11;1;2;1;8;5;16;10;335;0,92;0,78;370,3;7406;Service Industry;C#;;Business Application;D1
+12;0;1;2;8;1;10;15;330;0,85;0,89;368,25;7365;Communication;CSP;;Business Application;D1
+13;1;0;2;7;9;8;19;410;0,75;0,81;367,5;7350;Professional Services;C#;;Business Application;D1
+14;1;0;2;7;5;8;20;405;1,02;1,085;365,15;7303;Electronics & Computers;C#;Unified Process and its variants;Business Application;D1
+15;0;1;2;8;2;15;11;325;1,095;0,95;362,6;7252;;C++;;;D1
+16;0;1;2;8;1;8;16;325;0,92;0,78;362,25;7245;Insurance;C#;Waterfall;;D1
+17;0;2;1;7;2;15;16;400;0,75;0,81;358,3;7166;Banking;.Net;;Business Application;D1
+18;2;1;1;7;5;11;17;390;0,965;0,755;355,95;7119;Government;C#;;Mathematically-Intensive Application;D1
+19;0;1;2;8;3;9;14;315;0,92;0,78;355,55;7111;Communication;C++;;Mathematically-Intensive Application;D1
+20;4;2;0;8;2;14;11;315;1,05;0,95;352,2;7044;Medical & Health Care;;;;D1
+21;1;0;2;7;5;14;15;390;0,71;0,73;352;7040;Government;Java;;Business Application;D1
+22;2;1;1;7;3;23;10;395;1,02;1,085;351,4;7028;Insurance;C#;Waterfall;Business Application;D1
+23;0;1;2;8;1;16;10;315;1,03;0,8;347,1;6942;;XML;;Business Application;D1
+24;1;0;2;7;1;15;10;305;0,965;0,755;340,7;6814;Communication;;Waterfall;Mathematically-Intensive Application;D1
+25;0;0;3;9;2;19;12;380;0,78;0,79;340,45;6809;Service Industry;C#;;Business Application;D1
+26;0;1;2;8;2;20;11;375;0,98;0,97;340,1;6802;Electronics & Computers;C#;Waterfall;;D1
+27;1;1;3;12;0;14;11;305;0,78;0,51;339,35;6787;Medical & Health Care;;;;D1
+28;1;0;2;7;1;9;14;305;1,08;0,77;338,2;6764;Service Industry;;;;D1
+29;0;2;1;7;4;15;14;380;1,05;0,95;338,05;6761;Manufacturing;SQL;;Business Application;D2
+30;0;2;1;7;0;15;10;300;0,85;0,89;336,25;6725;Manufacturing;;Waterfall;Real-Time Application;D2
+31;1;0;2;7;1;16;9;300;1,02;1,085;334,5;6690;Medical & Health Care;;;;D2
+32;0;2;1;7;0;18;8;300;1,08;0,77;330;6600;Government;Oracle;Multifunctional Teams;Business Application;D2
+33;2;1;1;7;0;17;8;290;0,94;1,02;323,7;6474;Government;Visual Basic;;;D2
+34;0;0;2;6;0;13;15;355;0,95;0,92;321,65;6433;Government;C#;;Infrastructure Software;D2
+35;1;0;2;7;1;13;10;285;0,78;0,79;320,8;6416;Insurance;C#;;Business Application;D2
+36;0;1;2;8;0;14;10;290;0,94;1,02;320,6;6412;Electronics & Computers;C#;Incremental;;D2
+37;0;0;2;6;4;20;9;355;0,9;0,94;320;6400;Manufacturing;Visual Basic;Waterfall;Business Application;D2
+38;1;0;2;7;1;10;12;285;0,71;0,73;318;6360;Insurance;C#;;;D2
+39;0;0;2;6;0;13;15;355;0,9;0,91;316,85;6337;Wholesale & Retail;Visual Basic;;;D2
+40;2;2;4;18;1;20;27;610;0,72;0,67;312;6240;Insurance;;;Business Application;D2
+41;1;0;2;7;1;11;11;280;0,78;0,51;311,6;6232;Government;C#;;Business Application;D2
+42;1;0;2;7;1;14;9;280;1,03;0,8;308,65;6173;Wholesale & Retail;DELPHI;Rapid Application Development (RAD);Business Application;D2
+43;0;0;2;6;0;12;15;345;1;0,92;308;6160;Insurance;Visual Basic;Waterfall;Business Application;D2
+44;0;0;2;6;2;15;12;340;1,095;0,95;305,85;6117;Banking;C#;;Business Application;D2
+45;2;1;1;7;2;13;9;275;0,75;0,81;303,1;6062;Insurance;Visual Basic;Waterfall;Business Application;D2
+46;0;2;5;19;1;27;15;500;1,03;0,8;302,55;6051;Service Industry;C#;;Business Application;D2
+47;1;1;5;18;3;26;15;500;0,72;0,67;302,4;6048;Banking;ASP;;Business Application;D2
+48;0;3;4;18;2;19;20;500;0,85;0,89;301,75;6035;Service Industry;;;Business Application;D2
+49;0;0;2;6;1;19;5;270;0,965;0,755;301,2;6024;Banking;C#;;;D2
+50;0;0;6;18;20;25;9;485;0,85;0,88;301,15;6023;Service Industry;PowerBuilder;;Business Application;D2
+51;2;2;4;18;5;25;20;575;1,118;0,995;299,65;5993;Insurance;C#;Waterfall;;D2
+52;1;1;5;18;4;16;21;495;0,85;0,88;299,25;5985;Government;C#;;Business Application;D3
+53;0;3;4;18;5;21;17;490;0,75;0,81;298,55;5971;Government;C#;;Business Application;D3
+54;1;1;5;18;5;21;17;490;0,81;0,84;298,1;5962;Banking;Java;;Business Application;D3
+55;1;1;5;18;6;16;20;490;0,85;0,89;297,2;5944;Medical & Health Care;;;;D3
+56;0;1;5;17;5;25;20;575;0,85;0,88;297;5940;Insurance;;Waterfall;;D3
+57;0;0;2;6;0;14;8;260;0,98;0,97;296,35;5927;;C#;;Business Application;D3
+58;0;1;5;17;3;18;19;480;0,85;0,89;294,25;5885;Professional Services;Java;Waterfall;Business Application;D3
+59;1;1;5;18;5;16;20;485;1,08;0,77;294,1;5882;Manufacturing;Java;;Business Application;D3
+60;0;0;2;6;1;14;12;325;0,72;0,67;294;5880;;;;;D3
+61;2;2;4;18;3;26;14;485;0,82;0,79;294;5880;;C#;;Business Application;D3
+62;1;1;1;6;1;10;15;330;0,96;0,96;293,8;5876;Communication;C++;;Business Application;D3
+63;0;0;2;6;0;3;20;330;0,85;0,89;293,65;5873;Service Industry;C#;Multifunctional Teams;Business Application;D3
+64;1;1;5;18;3;17;20;485;1,095;0,95;293,25;5865;Medical & Health Care;;;;D3
+65;0;0;6;18;2;17;20;480;0,965;0,755;293,15;5863;;Visual Basic;;;D3
+66;1;1;5;18;3;21;17;480;0,98;0,97;292,8;5856;Communication;;Waterfall;Mathematically-Intensive Application;D3
+67;0;3;4;18;2;18;18;460;1,05;0,95;290;5800;Government;SQL;;Business Application;D3
+68;1;2;4;17;1;23;22;565;1,03;0,8;289,55;5791;Banking;C;;Real-Time Application;D3
+69;0;2;5;19;5;30;10;475;0,95;0,92;289,1;5782;Medical & Health Care;C#;;Business Application;D3
+70;0;0;2;6;5;15;5;250;1;0,92;288,9;5778;Insurance;C#;Waterfall;Business Application;D3
+71;2;2;4;18;5;18;17;460;0,85;0,89;288,75;5775;Insurance;Java;Waterfall;Business Application;D3
