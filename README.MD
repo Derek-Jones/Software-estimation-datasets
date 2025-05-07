@@ -11,6 +11,14 @@ The [arff file format](https://waikato.github.io/weka-wiki/formats_and_processin
 
 If you know of any datasets that are missing, and you have the data, please send me a copy. Also, if you spot any mistakes, please let me know.
 
+**Valdes-Souto.csv**
+
+F. Valdés-Soutoa, and J. Valeriano-Assem, "Merging Distinct Sources Databases to Improve Software Estimation Models", Programming and Computer Software, 2024, Vol. 50(8), pp. 786–795.
+
+57 rows
+
+Project totals of COSMIC function points and person hours.  Data from a Mexican company,  the International Software Benchmarking Standards Group (ISBSG), and the Mexican Software Metrics Association (AMMS).
+
 **CESAW.tgz**
 
 Derek M. Jones, William R. Nichols, "The CESAW dataset: a conversation", Jun 2021, [arXiv:cs.SE/2106.03679 ](https://arxiv.org/abs/2106.03679).
@@ -26,6 +34,14 @@ Derek M. Jones, "The Renzo Pomodoro dataset", Dec 2019, [The Shape of Code](http
 17,764 rows
 
 Estimate/actual in Pomodoros for small tasks.
+
+**Subbiah.csv**
+
+C. Subbiah, "Task-Based Estimation and Planning for Application Development Projects and Resources: Models, Methods and Applications", PhD thesis Dec 2019, University of Missouri – St. Louis.
+
+72 rows
+
+Function points.
 
 [SiP](https://github.com/Derek-Jones/SiP_dataset)
 
